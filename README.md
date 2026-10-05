@@ -57,7 +57,7 @@ The sector is **moderately fragmented**:
 
 ## 🔓 Open-Source GitHub Projects 🐙
 
-*Sorted by GitHub Stars_Count (Descending). Stars_Badges link directly to repo stargazers.*
+*Sorted by GitHub_Stars_Count (Descending). Stars_Badges link directly to repo stargazers.*
 
 | Repo 📦 | Description 📝 | GitHub_Stars ⭐ |
 |:---|:---|:---:|
