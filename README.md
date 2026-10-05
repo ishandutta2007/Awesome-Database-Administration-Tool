@@ -57,9 +57,9 @@ The sector is **moderately fragmented**:
 
 ## 🔓 Open-Source GitHub Projects 🐙
 
-*Sorted by GitHub Star Count (Descending). Star badges link directly to repo stargazers.*
+*Sorted by GitHub Stars_Count (Descending). Stars_Badges link directly to repo stargazers.*
 
-| Repo 📦 | Description 📝 | GitHub Stars ⭐ |
+| Repo 📦 | Description 📝 | GitHub_Stars ⭐ |
 |:---|:---|:---:|
 | **[DBeaver Community](https://github.com/dbeaver/dbeaver)** 🦫 | **The #1 universal database tool.** Supports PostgreSQL, MySQL, SQLite, Oracle, SQL Server, DB2, MariaDB, and MongoDB via JDBC. Includes ER diagrams, SQL autocomplete, data import/export, and rich extensions. | [![Stars](https://img.shields.io/github/stars/dbeaver/dbeaver?style=social&color=white)](https://github.com/dbeaver/dbeaver/stargazers) |
 | **[ChartDB](https://github.com/chartdb/chartdb)** 📊 | **Visualize and design your database with a single query.** Instant database diagram editor, reverse-engineer schema to interactive graphs, export DDL scripts with zero signup needed. | [![Stars](https://img.shields.io/github/stars/chartdb/chartdb?style=social&color=white)](https://github.com/chartdb/chartdb/stargazers) |
